@@ -3,13 +3,13 @@
 
 
 <!--intRO name  -->
-<h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/shivam-garg-15675720a/" target="_blank"> SHIVAM GARG </a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="40px"></h1><img width="38%" align="right" src="code.gif" >
+<h1 align="center" >Hi, I'm <a href="https://https://www.linkedin.com/in/madhav-reddy-telukutla-6a3915244/" target="_blank">MADHAV REDDY </a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="40px"></h1><img width="38%" align="right" src="code.gif" >
 
 A Small Introduction of  Myself, I am <b>Shivam Garg</b> pursuing <b>Computer Science Degree</b> from Dr. APJ Abdul Kalam Technical University, Currently in my Second-Year of B.Tech. As of now, I am focused on <b>web development, Artifical Intelligence  and Bionics </b> but still, exploring Other domains. ⚡
 
 <h3 align="center">A Passionate Frontend-Web Developer | Artifical Intelligence enthusiast | Researcher </h3>
 
-<h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=The-Shivam-garg&label=Profile%20views&color=6805D3&style=flat" alt="ShivamGarg" /> </p></h3>
+<h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=madhavreddy509&label=Profile%20views&color=6805D3&style=flat" alt="ShivamGarg" /> </p></h3>
    <div align="center">
 
 <h1>Technical Skills 🛠</h1>
@@ -52,32 +52,18 @@ I have learned web-development and having knowledge of HTML,CSS & Javascript, Jq
 
 
 
-| Project Name      | Description | 
-| :---:        |    :----   |  
-| [My Portfolio Website](https://github.com/The-Shivam-garg/MP-PersonalPortfolio)     | Portfolio website build using HTML5, CSS3, JavaScript and jQuery. 
-| [Elearn Website -bigB](https://github.com/The-Shivam-garg/BigB-E-learn-Websit-e)   | This is a Elearn Website which has all material related to education whether it's of Univeristy or Universe    | issued.© 2021 Shivam Garg
-| [Smart Mirror](https://github.com/The-Shivam-garg/Smart-mirror)     | In this Project we have automate the mirror using esp32 and add some cool features like google assistant . |
-| [Community Website ](https://github.com/The-Shivam-garg/SideHustlers-Community-Website)   | SIDE-Hustlers official website . We are a community of geeks. Come learn, share and connect with us. 
-
-<a href="https://github.com/The-Shivam-garg/BigB-E-learn-Websit-e" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=The-Shivam-garg&repo=BigB-E-learn-Websit-e&theme=dracula" />
-</a>
-<a href="https://github.com/The-Shivam-garg/SideHustlers-Community-Website" target="_blank">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=The-Shivam-garg&repo=SideHustlers-Community-Website&theme=dracula" />
-</a>
-<div align="center">
 
 <h1 align="center">Let's Get Connected</h1>
 
-Recently I have started a Community <b> TECHBENCHER's </b>to help fellow mates.Join the Social accounts & Discord channel in which will try to share the knowledge and about opportunities. I am active on LinkedIN and Twitter as well. You can reach out to me ,  It will be my Pleasure to help you.</p>
+ I am active on LinkedIN and Twitter as well. You can reach out to me ,  It will be my Pleasure to help you.</p>
 
 <div align="center">
 
 
-<a  href="https://www.linkedin.com/in/shivam-garg-15675720a/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/Shivams_twt" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
-<a href="mailto:shivanshagarwal2020@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-<a href="https://www.cloudskillsboost.google/public_profiles/507468ec-3dea-438e-9081-e797687e9890" target="blank"><img alt="Qwiklab" src="https://img.shields.io/badge/Qwiklab-%2300acee.svg?&style=for-the-badge&logo=Qwiklab&logoColor=yellow&alt=Qwiklab" /></a>
+<a  href="https://www.linkedin.com/in/madhav-reddy-telukutla-6a3915244/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/MLuckier?t=AAO9rsYBpc5tHC0Wph76FA&s=09" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
+<a href="mailto:madhavreddy00570@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+
 
 
 </div>
@@ -85,16 +71,16 @@ Recently I have started a Community <b> TECHBENCHER's </b>to help fellow mates.J
 <table>
   <tr>
    
-<td><img src="https://github-readme-stats.vercel.app/api?username=The-Shivam-garg&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="The-Shivam-garg" />
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=The-Shivam-garg&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="The-Shivam-garg" /></td>
+<td><img src="https://github-readme-stats.vercel.app/api?username=madhavreddy509&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="The-Shivam-garg" />
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=madhavreddy509&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="The-Shivam-garg" /></td>
   </tr>
 </table>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=The-Shivam-garg&theme=dark" alt="The-Shivam-garg" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madhavreddy509&theme=dark" alt="The-Shivam-garg" /></p>
   </div>
 
- [![The-Shivam-garg's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=The-Shivam-garg&theme=xcode)](https://git.io/The-Shivam-garg)
+ [![madhavreddy509's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=madhavreddy509&theme=xcode)](https://git.io/madhavreddy509)
 
 
- <a href="https://github.com/The-Shivam-garg?tab=followers"><img src="https://img.shields.io/github/followers/The-Shivam-garg?label=Followers&style=social" alt="GitHub Badge" align="center"></a>
+ <a href="https://github.com/madhavreddy509?tab=followers"><img src="https://img.shields.io/github/followers/madhavreddy509?label=Followers&style=social" alt="GitHub Badge" align="center"></a>
