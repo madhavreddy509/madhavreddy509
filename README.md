@@ -5,11 +5,15 @@
 <!--intRO name  -->
 <h1 align="center" >Hi, I'm <a href="https://https://www.linkedin.com/in/madhav-reddy-telukutla-6a3915244/" target="_blank">MADHAV REDDY </a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="40px"></h1><img width="38%" align="right" src="code.gif" >
 
-A Small Introduction of  Myself, I am <b>Shivam Garg</b> pursuing <b>Computer Science Degree</b> from Dr. APJ Abdul Kalam Technical University, Currently in my Second-Year of B.Tech. As of now, I am focused on <b>web development, Artifical Intelligence  and Bionics </b> but still, exploring Other domains. ⚡
+A Small Introduction of  Myself, I am <b>MADHAV REDDY </b> pursuing <br> <b>ARTIFICIAL INTILLIGENCE AND DATA SCIENCE</b> from VIGNAN'S INSTITUTE OF INFORMATION TECHNOLOGY, Currently in my Second-Year of B.Tech. As of now, I am focused on <b>web development, Artifical Intelligence  and Bionics </b> but still, exploring Other domains. ⚡
+- 👀 I’m interested in ... Problem solving , Analysing the data <br>
+- 💞️ I’m looking to collaborate on challenging machine learning projects but Sorry I'm very busy this time with my academics 😭🙃<br>
+- 📫 How to reach me madhavreddy00570@gmail.com
+- A good programmer is someone who always looks both ways before crossing a one-way street 😂😁😁
 
 <h3 align="center">A Passionate Frontend-Web Developer | Artifical Intelligence enthusiast | Researcher </h3>
 
-<h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=madhavreddy509&label=Profile%20views&color=6805D3&style=flat" alt="ShivamGarg" /> </p></h3>
+<h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=madhavreddy509&label=Profile%20views&color=6805D3&style=flat" alt="madhavreddy509" /> </p></h3>
    <div align="center">
 
 <h1>Technical Skills 🛠</h1>
@@ -71,13 +75,13 @@ I have learned web-development and having knowledge of HTML,CSS & Javascript, Jq
 <table>
   <tr>
    
-<td><img src="https://github-readme-stats.vercel.app/api?username=madhavreddy509&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="The-Shivam-garg" />
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=madhavreddy509&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="The-Shivam-garg" /></td>
+<td><img src="https://github-readme-stats.vercel.app/api?username=madhavreddy509&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="madhavreddy509" />
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=madhavreddy509&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="madhavreddy509" /></td>
   </tr>
 </table>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madhavreddy509&theme=dark" alt="The-Shivam-garg" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madhavreddy509&theme=dark" alt="madhavreddy509" /></p>
   </div>
 
  [![madhavreddy509's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=madhavreddy509&theme=xcode)](https://git.io/madhavreddy509)
