@@ -18,7 +18,7 @@ A Small Introduction of  Myself, I am <b>MADHAV REDDY </b> pursuing <br> <b>ARTI
 
 <h1>Technical Skills 🛠</h1>
    
-I have learned web-development and having knowledge of HTML,CSS & Javascript, Jquery. I have Worked on various Projects related to Artifical Intelligence,also <b> I'm 3 x @Microsoft Certified in Azure Fundamental , Artificial Intelligence, Security. </b> . Tech: Artifical Intelligence, Bionics, Microsoft Azure, Deep learning, Google cloud, Avionics.
+I have learned web-development and having knowledge of HTML,CSS & Javascript, Jquery. I have Worked on various Projects related to Artifical Intelligence,also <b> I'm codechef Certified in data structures, Security. </b> . Tech: Artifical Intelligence, Bionics, Microsoft Azure, Deep learning, Google cloud, Avionics.
  Known Languages: Python,C, Html, JavaScript, and CSS.
 
 <p align="center"> 
