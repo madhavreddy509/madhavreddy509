@@ -5,7 +5,7 @@
 <!--intRO name  -->
 <h1 align="center" >Hi, I'm <a href="https://https://www.linkedin.com/in/madhav-reddy-telukutla-6a3915244/" target="_blank">MADHAV REDDY </a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="40px"></h1><img width="38%" align="right" src="code.gif" >
 
-A Small Introduction of  Myself, I am <b>MADHAV REDDY </b> pursuing <br> <b>ARTIFICIAL INTILLIGENCE AND DATA SCIENCE</b> from VIGNAN'S INSTITUTE OF INFORMATION TECHNOLOGY, Currently in my Second-Year of B.Tech. As of now, I am focused on <b>web development, Artifical Intelligence  and Bionics </b> but still, exploring Other domains. ⚡
+A Small Introduction of  Myself, I am <b>MADHAV REDDY </b> pursuing <br> <b>ARTIFICIAL INTELLIGENCE AND DATA SCIENCE</b> from VIGNAN'S INSTITUTE OF INFORMATION TECHNOLOGY, Currently in my Second-Year of B.Tech. As of now, I am focused on <b>web development, Artifical Intelligence  and Bionics </b> but still, exploring Other domains. ⚡
 - 👀 I’m interested in ... Problem solving , Analysing the data <br>
 - 💞️ I’m looking to collaborate on challenging machine learning projects but Sorry I'm very busy this time with my academics 😭🙃<br>
 - 📫 How to reach me madhavreddy00570@gmail.com
@@ -65,7 +65,7 @@ I have learned web-development and having knowledge of HTML,CSS & Javascript, Jq
 
 
 <a  href="https://www.linkedin.com/in/madhav-reddy-telukutla-6a3915244/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/MLuckier?t=AAO9rsYBpc5tHC0Wph76FA&s=09" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
+<a href="https://twitter.com/madhavreddy509?t=q2uiL0-QJbLZAuexI-hYsQ&s=09" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
 <a href="mailto:madhavreddy00570@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
 
