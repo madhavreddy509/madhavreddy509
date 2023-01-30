@@ -5,7 +5,7 @@
 <!--intRO name  -->
 <h1 align="center" >Hi, I'm <a href="https://https://www.linkedin.com/in/madhav-reddy-telukutla-6a3915244/" target="_blank">MADHAV REDDY </a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="40px"></h1><img width="38%" align="right" src="code.gif" >
 
-A Small Introduction of  Myself, I am <b>MADHAV REDDY </b> pursuing <br> <b>ARTIFICIAL INTELLIGENCE AND DATA SCIENCE</b> from VIGNAN'S INSTITUTE OF INFORMATION TECHNOLOGY, Currently in my Second-Year of B.Tech. As of now, I am focused on <b>web development, Artifical Intelligence  and Bionics </b> but still, exploring Other domains. ⚡
+A Small Introduction of  Myself, I am <b>MADHAV REDDY </b> pursuing <br> <b>ARTIFICIAL INTELLIGENCE AND DATA SCIENCE</b> from VIGNAN'S INSTITUTE OF INFORMATION TECHNOLOGY, Currently in my Third-Year of B.Tech. As of now, I am focused on <b>web development, Artifical Intelligence, Data Science and Data Structures </b> but still, exploring Other domains. ⚡
 - 👀 I’m interested in ... Problem solving , Analysing the data <br>
 - 💞️ I’m looking to collaborate on challenging machine learning projects but Sorry I'm very busy this time with my academics 😭🙃<br>
 - 📫 How to reach me madhavreddy00570@gmail.com
@@ -18,8 +18,8 @@ A Small Introduction of  Myself, I am <b>MADHAV REDDY </b> pursuing <br> <b>ARTI
 
 <h1>Technical Skills 🛠</h1>
    
-I have learned web-development and having knowledge of HTML,CSS & Javascript, Jquery. I have Worked on various Projects related to Artifical Intelligence,also <b> I'm codechef Certified in data structures. </b> . Tech: Artifical Intelligence, Bionics, Microsoft Azure, Deep learning, Google cloud, Avionics.
- Known Languages: Python,C, Html, JavaScript, and CSS.
+I have learned web-development and having knowledge of HTML,CSS & Javascript, Jquery. I have Worked on Projects related to Artifical Intelligence and Data Science,also <b> I'm codechef Certified in data structures. </b> . Tech: Artifical Intelligence, Bionics, Microsoft Azure, Deep learning, Google cloud, Avionics.
+ Known Languages: Python, C, C++, Html, JavaScript, and CSS.
 
 <p align="center"> 
 <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
@@ -32,14 +32,13 @@ I have learned web-development and having knowledge of HTML,CSS & Javascript, Jq
     <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
     <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
     <img alt="ReactJs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img alt="Kubernets" src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />
-    <img alt="firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+    <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
+    <img alt="DjangoREST" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" />
     <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
     <img alt="Microsoft Azure" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
     <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-    <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-    <img alt="IntelliJIDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+    
 </p>
 
  <h1>Started Exploring </h1>
