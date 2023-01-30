@@ -83,7 +83,7 @@ I have learned web-development and having knowledge of HTML,CSS & Javascript, Jq
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madhavreddy509&theme=dark" alt="madhavreddy509" /></p>
   </div>
 
- [![madhavreddy509's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=madhavreddy509&theme=xcode)](https://git.io/madhavreddy509)
+
 
 
  <a href="https://github.com/madhavreddy509?tab=followers"><img src="https://img.shields.io/github/followers/madhavreddy509?label=Followers&style=social" alt="GitHub Badge" align="center"></a>
